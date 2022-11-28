@@ -10,9 +10,7 @@
         "friendsofsymfony/elastica-bundle": "^6.0",
         "symfony/property-access": "^4.4 || ^5.2 || ^6.0",
         "symfony/webpack-encore-bundle": "^1.13",
-        "symfony/proxy-manager-bridge": "^4.4 || ^5.4 || ^6.0",
-        "symfony/twig-bridge": "5.4.16",
-        "symfony/form": "5.4.16"
+        "symfony/proxy-manager-bridge": "^4.4 || ^5.4 || ^6.0"
     },
     "require-dev": {
         "behat/behat": "^3.6.1",
